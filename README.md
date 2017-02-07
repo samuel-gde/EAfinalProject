@@ -1,0 +1,2 @@
+# EAfinalProject
+Attendance Checking Software 
